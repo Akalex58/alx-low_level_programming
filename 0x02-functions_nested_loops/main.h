@@ -1,6 +1,7 @@
 #ifndef MAIN
 #define MAIN
 
+int _putchar(char c);
 _putchar(void);
 void print_alphabet(void);
 void print_alphabet_x10(void);
