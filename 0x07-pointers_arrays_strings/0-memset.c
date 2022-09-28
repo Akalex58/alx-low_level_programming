@@ -1,10 +1,11 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
  * _memset - function fills the n bytes of mem. area, pointed to by s const byte b
  * @s: referenced array
- * @c: char
- * @n:
+ * @b: char
+ * @n: relax
  * Return: referenced array
  */
 void *_memset(void *s, int c, size_t n)
