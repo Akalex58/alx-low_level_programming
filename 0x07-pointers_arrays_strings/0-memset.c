@@ -4,7 +4,7 @@
  * _memset - function fills the n bytes of mem. area, pointed to by s const byte b
  * @s: referenced array
  * @c: char
- * @n: relax
+ * @n:
  * Return: referenced array
  */
 void *_memset(void *s, int c, size_t n)
